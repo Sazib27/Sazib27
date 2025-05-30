@@ -1,6 +1,5 @@
 ## Hi there I'm Sazib Hossain👋
 
-<!--
 # 💫 About Me:
 🔭 I’m currently working on Library Management System using Java<br>👯 I’m looking to collaborate on Developing your Full Website<br>🤝 I’m looking for help with AI & Blockchain<br>🌱 I’m currently learning Blockchain <br>💬 Ask me about my ninja disguise
 
@@ -28,4 +27,3 @@
 [![](https://visitcount.itsvg.in/api?id=Sazib27&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
